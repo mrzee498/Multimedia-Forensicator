@@ -2,7 +2,7 @@
 A Forensic tool for verifying the integrity of multimedia files
 
 REQUIREMENTS
-Local Server. You can download XAMPP <a href="https://www.apachefriends.org/index.html">Here</a>
+Local Server. You can download XAMPP <a href="https://www.apachefriends.org/index.html" target="_blank" >Here</a>
 
 The target machine requires at least 
 i.	2GB RAM,
