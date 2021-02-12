@@ -37,6 +37,6 @@ Create a new database with the name: “multimedia_forensic” and import the �
 
 EXECUTE THE SYSTEM
 
-Ensure that the XAMPP application is running. Open a web browser, and go to: http://localhost/multimedia
+Ensure that the XAMPP application is running. Open a web browser, and go to: http://localhost/multimedia or http://127.0.0.1/multimedia
 
 
